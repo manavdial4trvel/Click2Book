@@ -1,2 +1,2 @@
 # Click2Book
-Click2book Project  UK full website
+Click2book Project
